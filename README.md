@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
+![RAG](https://img.shields.io/badge/RAG-LLM%20Pipeline-purple)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-orange)
+![LLM](https://img.shields.io/badge/LLM-Llama-blue)
+
+
 📄 AI Resume Analyzer (RAG + LLM)
 
 This project is an AI-powered Resume Analyzer that allows users to upload a resume (PDF) and ask questions about it. The system uses a Retrieval-Augmented Generation (RAG) pipeline to analyze the resume and generate intelligent answers.
